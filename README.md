@@ -1,9 +1,7 @@
 # Malyshew Wytalyi
 
-![certificate]
+ ![certificate]
 
-[def]:(Снимок.JPG1-1.JPG)
-
-![certificate]
-
-[def]: Снимок.JPG2-1.JPG
+[def]: Снимок.JPG1.JPG
+ 
+       Снимок.JPG2.JPG
