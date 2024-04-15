@@ -1,7 +1,9 @@
 # Hello World!
 
-[alt text](Снимок.JPG1.JPG)
+[certificate]
 
-[alt text][def]
+(Снимок.JPG1.JPG)
 
-[def]: Снимок.JPG2.JPG
+[certificate]
+
+ Снимок.JPG2.JPG
